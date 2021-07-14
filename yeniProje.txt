@@ -1,3 +1,9 @@
 bu yeni proje dosyasına veriler nano editörü ile girildi.
 buradaki bilgiler git repostry e commit edilecek.
 muhammed deniz/14.07.2021
+
+/*bu dosyaya bu satırları ekleyerek bir değişiklik yaptım
+*
+*
+*
+ Tarih: 14.Temmuz.2021, 12:29*/
