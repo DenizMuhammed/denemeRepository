@@ -1,1 +1,3 @@
 versiyon 0.0 / 10Temmuz2021
+
+Bu satırdaki değişiklik nano editöri ile yapıldı: 14Temmuz2021
