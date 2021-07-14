@@ -1,0 +1,3 @@
+bu yeni proje dosyasına veriler nano editörü ile girildi.
+buradaki bilgiler git repostry e commit edilecek.
+muhammed deniz/14.07.2021
