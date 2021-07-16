@@ -7,3 +7,5 @@ muhammed deniz/14.07.2021
 *
 *
  Tarih: 14.Temmuz.2021, 12:29*/
+
+// bu dosyaya bu satır eklenerek bir değişiklik yapıldı. 16.Temmuz.2021 15:57
