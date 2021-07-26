@@ -3,5 +3,5 @@ def topla(x,y):
 
 s=topla(2,3)
 
-print(s)
+print(2*s)
 
