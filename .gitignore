@@ -1,0 +1,4 @@
+Gizli_dosya.txt
+dokumanlar/*
+
+!dokumanlar/kodum.py
